@@ -8,3 +8,7 @@ The project aims to create a database, analyse and retrieve data using sql, conn
 - Hotel Revenue is growing by year, with City hotels been booked more than resort hotels.
 - Throughout the years parking spaces are more needed in Resort Hotels by 2.8% compared to City Hotels.
 
+
+## Demo
+
+To view the dashboard click the pdf file above. 
